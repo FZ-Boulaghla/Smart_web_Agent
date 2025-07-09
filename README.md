@@ -26,11 +26,11 @@ Un système complet de veille web automatisée intégrant du scraping, de l’an
 ```bash
 git clone https://github.com/FZ-Boulaghla/Smart_web_Agent.git
 ```
- ###2. En ligne de commande (CLI)
+ ### 2. En ligne de commande (CLI)
  ```
 python pipeline.py --query "cybersecurity" --email "destinataire@example.com"
 ```
-###3. Via l’API (FastAPI)
+### 3. Via l’API (FastAPI)
 ```
 python -m uvicorn backend:app --reload --host 0.0.0.0
 POST → http://localhost:8000/run-pipeline
