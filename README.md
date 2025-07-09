@@ -1,4 +1,4 @@
-# 🧠 Agent Intelligent de Veille Web Automatisée
+#  Agent Intelligent de Veille Web Automatisée
 
 Un système complet de veille web automatisée intégrant du scraping, de l’analyse NLP, de la classification par BERT, du clustering thématique, du résumé automatique,et un système de notification par e-mail.
 
@@ -40,4 +40,10 @@ Payload JSON :
   "query": "cybersecurity",
   "email": "destinataire@example.com"
 }
+```
+## Pour le frontend:
+```
+cd veille-intelligente
+npm install
+npm run dev
 ```
