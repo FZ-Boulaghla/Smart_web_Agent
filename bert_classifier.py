@@ -1,9 +1,8 @@
 from transformers import pipeline
 import json
 
-# Exemple d'un modèle multi-langue 
-classifier = pipeline("text-classification", model="nlptown/bert-base-multilingual-uncased-sentiment")
-
+# Charge le modèle préentraîné pour la classification
+classifier = pipeline("text-classification", model="distilbert-base-uncased-finetuned-sst-2-english")
 
 def load_index(path="index.json"):
     with open(path, "r", encoding="utf-8") as f:

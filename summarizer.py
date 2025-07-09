@@ -8,16 +8,22 @@ def summarize_index(input_path="deduplicated_best.json", output_path="summarized
         data = json.load(f)
 
     for key, article in data.items():
-        text = article.get("content", "")
-        if len(text.strip()) > 30:
-            try:
-                summary = summarizer(text[:1024])[0]['summary_text']
-                article["summary"] = summary
-            except Exception as e:
-                print(f"Erreur de résumé pour {key} : {e}")
-                article["summary"] = "Résumé échoué."
-        else:
-            article["summary"] = "Texte trop court pour résumé."
+        # Prendre en priorité le champ le plus complet
+        text = article.get("ocr_text") or article.get("description") or article.get("title") or ""
+        text = text.strip()
+        
+        if not text:
+            article["summary"] = "Aucun contenu disponible pour générer un résumé."
+            continue
+
+        try:
+            # Découpe le texte si trop long
+            chunk = text[:1024] if len(text) > 1024 else text
+            summary = summarizer(chunk)[0]['summary_text']
+            article["summary"] = summary
+        except Exception as e:
+            print(f"Erreur de résumé pour {key} : {e}")
+            article["summary"] = "Résumé échoué."
 
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
