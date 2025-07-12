@@ -5,7 +5,7 @@ from sentence_transformers import SentenceTransformer, util
 from tqdm import tqdm
 
 # Charger modèles
-#tool = language_tool_python.LanguageTool('en-US')  # ⚠️ Lent → peut être désactivé
+#tool = language_tool_python.LanguageTool('en-US') 
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 def score_articles(input_file="summarized_index.json", output_file="scored_index.json"):
@@ -16,7 +16,7 @@ def score_articles(input_file="summarized_index.json", output_file="scored_index
     all_texts = [item.get("summary", "") for item in data.values()]
     print(f"Total de résumés : {len(all_texts)}")
 
-    # ⚡ Pré-calcul des embeddings
+    # Pré-calcul des embeddings
     print("Encodage des textes...")
     embeddings = {
         text: model.encode(text, convert_to_tensor=True)
@@ -32,9 +32,9 @@ def score_articles(input_file="summarized_index.json", output_file="scored_index
         # Score lisibilité
         readability = textstat.flesch_reading_ease(summary)
 
-        # Optionnel : vérifier la grammaire (lent)
+        # Optionnel : vérifier la grammaire
         try:
-            grammar_issues = len(tool.check(summary))  # ⚠️ Peut ralentir fortement
+            grammar_issues = len(tool.check(summary)) 
         except Exception:
             grammar_issues = -1  # Erreur silencieuse
 
@@ -54,7 +54,7 @@ def score_articles(input_file="summarized_index.json", output_file="scored_index
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-    print(f"✅ Scoring terminé : résultats dans {output_file}")
+    print(f" Scoring terminé : résultats dans {output_file}")
     
     # Retourner la liste des articles traités
     return data
@@ -64,4 +64,4 @@ if __name__ == "__main__":
     final_articles = score_articles()
 
     # Si tu veux les afficher ou les utiliser après
-    print(final_articles[:5])  # Affiche les 5 premiers articles traités (exemple)
+    print(final_articles[:5])  # Affiche les 5 premiers articles traités

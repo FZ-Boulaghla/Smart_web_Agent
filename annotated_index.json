@@ -889,5 +889,45 @@
     "bert_label": "POSITIVE",
     "bert_score": 0.9994088411331177,
     "relevant": true
+  },
+  "84e3ea11571b8d77780a24acbc07b6c5fc08c487526c6dbf4e58f1757a3cd8a6": {
+    "url": "https://cybersecurity.springeropen.com/",
+    "title": "Home | Cybersecurity",
+    "description": "Focusing on cyberspace security issues, this open access journal Cybersecurity publishes high quality research and expert reviews to report the latest ...",
+    "bert_label": "POSITIVE",
+    "bert_score": 0.9991768002510071,
+    "relevant": true
+  },
+  "0c630361fa6b56d5731df6b654624dabe1a04f0bcfdaa76bb5dbfe2dfa6cdc15": {
+    "url": "https://www.netacad.com/cybersecurity",
+    "title": "What is Cybersecurity? | Free Courses and Resources",
+    "description": "Cybersecurity is a practice protecting computers, networks, programs, and data from digital attacks, damage, or unauthorized access.",
+    "bert_label": "NEGATIVE",
+    "bert_score": 0.9731141328811646,
+    "relevant": false
+  },
+  "6e4f868ca54a0a61cbb50fd44463db37f0c460bd5e2662baf7539d9586112a0d": {
+    "url": "https://www.checkpoint.com/cyber-hub/cyber-security/what-is-cybersecurity/",
+    "title": "What is Cyber Security? The Different Types of Cybersecurity - Check Point Software",
+    "description": "Understand what cyber security is, the different types of cybersecurity solutions, and the importance of a consolidated cybersecurity solution",
+    "bert_label": "POSITIVE",
+    "bert_score": 0.982430636882782,
+    "relevant": true
+  },
+  "b3b6b3aed185c59c2afa0788f1e25cdcaf65342fd980d7f27c756f2cbca12b59": {
+    "url": "https://sunypoly.edu/academics/majors-and-programs/ms-network-computer-security",
+    "title": "Cybersecurity (MS) | SUNY Polytechnic Institute",
+    "description": "The Master of Science program in Cybersecurity offers students a cutting-edge curriculum in the field of\u00c2\u00a0cyber security. The program has been developed in conjunction with local experts in both industry and government, and\u00c2\u00a0provides students with a rigorous foundation of coursework that prepares them for management and technical positions in the\u00c2\u00a0fields of cyber security research and IT security management.",
+    "bert_label": "POSITIVE",
+    "bert_score": 0.9991959929466248,
+    "relevant": true
+  },
+  "80636a53d3a5c5e56cbcf21d7926379270f063f6ab3c3c4c333e2cb061103c1e": {
+    "url": "https://cybertechaccord.org/",
+    "title": "Home | Cybersecurity Tech Accord",
+    "description": "",
+    "bert_label": "POSITIVE",
+    "bert_score": 0.9608426690101624,
+    "relevant": true
   }
 }

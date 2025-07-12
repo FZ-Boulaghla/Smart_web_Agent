@@ -8,7 +8,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.4058080017566681,
-    "cluster": 1
+    "cluster": 4
   },
   "91f761ced38cf58d9792ca4dc27d628d8547deee31526f3b0d1dfb3224c63945": {
     "url": "https://fr.wikipedia.org/wiki/Changement_climatique",
@@ -227,7 +227,7 @@
     "relevant": true,
     "theme": "sante",
     "theme_score": 0.9173640012741089,
-    "cluster": 0
+    "cluster": 1
   },
   "8286fc0501ac83e45d34a1e2a353f05d81b857e1708388c60502a11767824ab4": {
     "url": "https://www.santeofmatthews.com/",
@@ -238,7 +238,7 @@
     "relevant": true,
     "theme": "sante",
     "theme_score": 0.7811217308044434,
-    "cluster": 0
+    "cluster": 1
   },
   "8412e9c2cb201fce3e21db33857c9105a2c07a1b3a8ca1fd2e18b04cf289ae5b": {
     "url": "https://sante.com/",
@@ -249,7 +249,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.8627492785453796,
-    "cluster": 4
+    "cluster": 1
   },
   "a3b7a3de4af16534d7354f41e497c69e0a25972a7fb1603090b34d1c02df9e24": {
     "url": "https://www.meetatsante.com/",
@@ -282,7 +282,7 @@
     "relevant": true,
     "theme": "sante",
     "theme_score": 0.8876652121543884,
-    "cluster": 4
+    "cluster": 1
   },
   "0d3fcad8245305131e403af7d08da7d7d7ff90709573ae3ca4eb8bcc3c7259c1": {
     "url": "https://santepdx.com/",
@@ -293,7 +293,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.8054741621017456,
-    "cluster": 0
+    "cluster": 1
   },
   "4039290067b6a7f42fc8341364547db3e3ed7301c7cbf4e8b10ca2463b953fcd": {
     "url": "https://santelounge.com/",
@@ -304,7 +304,7 @@
     "relevant": true,
     "theme": "sante",
     "theme_score": 0.9508678317070007,
-    "cluster": 0
+    "cluster": 1
   },
   "3e35c1981c03dada67301a6b00a109ad3ab7cac0ae37efed3834622043c8603c": {
     "url": "https://studiotk.com/products/sant%C3%A9",
@@ -315,7 +315,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.4865632653236389,
-    "cluster": 0
+    "cluster": 1
   },
   "23dc0e0fb26307e2fb5bc94e770941a098dbde13509c7e21ba0cafdba108148a": {
     "url": "https://www.fairmont.com/en/hotels/sonoma/fairmont-sonoma-mission-inn-spa/dining.html",
@@ -337,7 +337,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.5655542612075806,
-    "cluster": 1
+    "cluster": 4
   },
   "5a2e17ade45ad67976d89afcd56dadeb4bed29a30f02f2122626a2d82e38a889": {
     "url": "https://santecares.com/",
@@ -348,7 +348,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.5655542612075806,
-    "cluster": 1
+    "cluster": 4
   },
   "be5251f78ad22756331c8f4514f77bc65fec40d9ba7ed74db4d080a79028f0b1": {
     "url": "https://www.guittard.com/our-chocolate/detail/sante-72-cacao-chocolate-chips",
@@ -381,7 +381,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.8566058278083801,
-    "cluster": 0
+    "cluster": 1
   },
   "2d33560d1e93c6c2653299194d730d7ebf821c36a8a9c7863f6f234a0dac2a47": {
     "url": "https://www.santewinery.com/",
@@ -403,7 +403,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.7534624934196472,
-    "cluster": 4
+    "cluster": 1
   },
   "0687cdeb95f9a1304ada3846db7b5f41ec4975497b19a1d675b26c199f533e9c": {
     "url": "https://www.santenuts.com/",
@@ -414,7 +414,7 @@
     "relevant": true,
     "theme": "sante",
     "theme_score": 0.6960606575012207,
-    "cluster": 0
+    "cluster": 1
   },
   "131e56613b1a2d77f76eb95adc92f76816641837a142f85bd93b63518c2ca1f5": {
     "url": "https://lucysante.com/",
@@ -425,7 +425,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.8225604891777039,
-    "cluster": 3
+    "cluster": 1
   },
   "b6b57228450944f4272323d3d7b258d9c7f88b2e7848ae87f35d48baab768d8e": {
     "url": "https://sante-group.com/",
@@ -436,7 +436,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.5655542612075806,
-    "cluster": 1
+    "cluster": 4
   },
   "84192f59d337e58b8d3391242e7ecd948a241801541ba95247b0b73bf1a9a0c8": {
     "url": "https://www.onelogin.com/fr-fr/learn/what-is-cyber-security",
@@ -502,7 +502,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.5655542612075806,
-    "cluster": 1
+    "cluster": 4
   },
   "30945f68ade4b6def63d29e4b70f5f253b8d8a01992fe699fcc995b2503bb87f": {
     "url": "https://www.cybermalveillance.gouv.fr/",
@@ -623,7 +623,7 @@
     "relevant": true,
     "theme": "cybersecurity",
     "theme_score": 0.9621405005455017,
-    "cluster": 4
+    "cluster": 0
   },
   "fb3b23b40382ed97589cfd671cc03fac418f486349548a939165ab1992ee97b6": {
     "url": "https://health.ec.europa.eu/ehealth-digital-health-and-care/digital-health-and-care/european-action-plan-cybersecurity-hospitals-and-healthcare-providers_fr",
@@ -667,7 +667,7 @@
     "relevant": true,
     "theme": "intelligence artificielle",
     "theme_score": 0.43790489435195923,
-    "cluster": 4
+    "cluster": 1
   },
   "5b7d54409f2a9b2acd4605ebe227548df996beaca597edf919951a9838e5338e": {
     "url": "https://gemini.google.com/",
@@ -678,7 +678,7 @@
     "relevant": true,
     "theme": "intelligence artificielle",
     "theme_score": 0.7471837401390076,
-    "cluster": 4
+    "cluster": 1
   },
   "04d39e8bd5d50dd5367f9de946d1aeb9d7d1fd1a237e1daa99c7e2d1e4d17dd7": {
     "url": "https://openai.com/",
@@ -700,7 +700,7 @@
     "relevant": true,
     "theme": "intelligence artificielle",
     "theme_score": 0.3038017451763153,
-    "cluster": 4
+    "cluster": 1
   },
   "aa644a2ebf17a616bf3299f2c2e329e5a7ff6374ecbe68ee50a3802d77c1a12e": {
     "url": "https://ia.net/",
@@ -711,7 +711,7 @@
     "relevant": true,
     "theme": "intelligence artificielle",
     "theme_score": 0.392581045627594,
-    "cluster": 4
+    "cluster": 1
   },
   "0ebfa48b636a39dd512b18a10e4b28a86324837dcb6bbd2b0584ad3ba4a1d089": {
     "url": "https://www.iowa.gov/",
@@ -722,7 +722,7 @@
     "relevant": true,
     "theme": "education",
     "theme_score": 0.27155187726020813,
-    "cluster": 4
+    "cluster": 1
   },
   "023d0a5760becceaa925b30120078cb7162930983a691e430a4b1b2fe55db54e": {
     "url": "https://ia.net/writer",
@@ -733,7 +733,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.31279560923576355,
-    "cluster": 4
+    "cluster": 1
   },
   "8a81edb2eb12b8db8aef63ba34d1b70454222c32eb666eb661823f3a2b5ad0cc": {
     "url": "https://www.windsorheights.org/",
@@ -766,7 +766,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.5655542612075806,
-    "cluster": 1
+    "cluster": 4
   },
   "8b81813bfd12d53d03399865d90e032c8b2fad685e4221ad4aee89074ebff59e": {
     "url": "https://northlibertyiowa.org/",
@@ -777,7 +777,7 @@
     "relevant": true,
     "theme": "sante",
     "theme_score": 0.34205570816993713,
-    "cluster": 3
+    "cluster": 1
   },
   "e4705a3a99aa7f8c68302872b5b7d31f5681e15167edef42be719ead1a15fd0c": {
     "url": "https://www.manchester-ia.org/",
@@ -788,7 +788,7 @@
     "relevant": true,
     "theme": "sante",
     "theme_score": 0.3964889645576477,
-    "cluster": 3
+    "cluster": 1
   },
   "e92946dffc255e743cc2b22e8d2cd062eb5b46c997d05eb2e07c7e8a02ea20e8": {
     "url": "https://www.dsm.city/",
@@ -799,7 +799,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.5655542612075806,
-    "cluster": 1
+    "cluster": 4
   },
   "cdb2428f1e1ac6fd9cb435ae097492a3facf4ec45d20899de53a7aab23037a7d": {
     "url": "https://www.urbandale.org/",
@@ -821,7 +821,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.5655542612075806,
-    "cluster": 1
+    "cluster": 4
   },
   "d92e5d9a8a7f327070a39b15c3d0686d5593e46407673b351fa2d7d8e1ee7cc5": {
     "url": "https://www.cityofjohnston.com/",
@@ -843,7 +843,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.5655542612075806,
-    "cluster": 1
+    "cluster": 4
   },
   "bd3b7195620e9764385a93838d26b1d1327b2df3ab9618d066e10b88f90a0217": {
     "url": "https://www.independenceia.gov/",
@@ -962,7 +962,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.5655542612075806,
-    "cluster": 1
+    "cluster": 4
   },
   "7e71f397100c89af359c08ff2bc5afef0b976024dd05819c29cc4acdf44fcbf0": {
     "url": "https://www.boutique-dalloz.fr/code-de-la-cybersecurite-p.html",
@@ -984,7 +984,7 @@
     "relevant": true,
     "theme": "sante",
     "theme_score": 0.3925427496433258,
-    "cluster": 3
+    "cluster": 1
   },
   "b1df6d22a2a0219947881b556fb7594b894d5ba1255fa77b33bae7b1ceb5e621": {
     "url": "https://www.cisa.gov/topics/cybersecurity-best-practices",
@@ -995,7 +995,7 @@
     "relevant": true,
     "theme": "cybersecurity",
     "theme_score": 0.9529725313186646,
-    "cluster": 4
+    "cluster": 0
   },
   "9d58693b1a2743bf944f483d9e0ebd42b44409d990e4157268063789a5c7aeae": {
     "url": "https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html",
@@ -1006,7 +1006,7 @@
     "relevant": true,
     "theme": "cybersecurity",
     "theme_score": 0.8208198547363281,
-    "cluster": 4
+    "cluster": 0
   },
   "c427a035b19d102d64c91e60bdd229e1671e0125d414ed57d91d079930191b1a": {
     "url": "https://www.cisa.gov/",
@@ -1017,7 +1017,7 @@
     "relevant": false,
     "theme": "cybersecurity",
     "theme_score": 0.8812210559844971,
-    "cluster": 4
+    "cluster": 0
   },
   "53c4653ad6f22c40adab9d82a2ecc3a3bc5bed816b92905ef66dfdc1bdd70e58": {
     "url": "https://www.ibm.com/think/topics/cybersecurity",
@@ -1028,7 +1028,7 @@
     "relevant": true,
     "theme": "cybersecurity",
     "theme_score": 0.6010777354240417,
-    "cluster": 4
+    "cluster": 0
   },
   "209a744648b905db4a117c90b81dc485e5b75e5f598872a5145bd21785ee0470": {
     "url": "https://www.nist.gov/cyberframework",
@@ -1039,7 +1039,7 @@
     "relevant": true,
     "theme": "cybersecurity",
     "theme_score": 0.86076819896698,
-    "cluster": 4
+    "cluster": 0
   },
   "0f3433abaee841778eafd483c5e3b5e3f1576ff9cd5aa38d9b76fec5dc4fad00": {
     "url": "https://cybersecurityguide.org/",
@@ -1050,7 +1050,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.5655542612075806,
-    "cluster": 1
+    "cluster": 4
   },
   "6f568fe96cdf64c6e63fe9a1b75bdc594012dc9648ff95b0516e298df87e2907": {
     "url": "https://www.dhs.gov/topics/cybersecurity",
@@ -1061,7 +1061,7 @@
     "relevant": true,
     "theme": "cybersecurity",
     "theme_score": 0.9639379978179932,
-    "cluster": 4
+    "cluster": 0
   },
   "1c761851a7b0e829fe884db13b3ea4dc9531850e8288f89c6abf3d1f169b5450": {
     "url": "https://en.wikipedia.org/wiki/Computer_security",
@@ -1072,7 +1072,7 @@
     "relevant": false,
     "theme": "cybersecurity",
     "theme_score": 0.9617281556129456,
-    "cluster": 4
+    "cluster": 0
   },
   "bef3795fbbd52c6106fa8903cb54f0a716b019d7b700c7460656824f33ac5679": {
     "url": "https://cybersecurityventures.com/",
@@ -1083,7 +1083,7 @@
     "relevant": true,
     "theme": "cybersecurity",
     "theme_score": 0.8390519022941589,
-    "cluster": 4
+    "cluster": 0
   },
   "8a8ec835177140a502de69a1bd1dac5e607971b9c4ec03eaad3b4f8493f292df": {
     "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence/cybersecurity",
@@ -1105,7 +1105,7 @@
     "relevant": false,
     "theme": "cybersecurity",
     "theme_score": 0.914359450340271,
-    "cluster": 4
+    "cluster": 0
   },
   "36c87590ba3a54a5ef3d0115d33f02d9f405241530565e9eef129d5a4c0b980b": {
     "url": "https://www.fcc.gov/communications-business-opportunities/cybersecurity-small-businesses",
@@ -1126,7 +1126,7 @@
     "relevant": true,
     "theme": "cybersecurity",
     "theme_score": 0.8814388513565063,
-    "cluster": 4
+    "cluster": 0
   },
   "552cf3dc4ae9e29e74e31e57a2c66ba21797c40e76814e5da37aa1c4c7f9b112": {
     "url": "https://cybersecurityventures.com/cybercrime-damages-6-trillion-by-2021/",
@@ -1137,7 +1137,7 @@
     "relevant": false,
     "theme": "sante",
     "theme_score": 0.5655542612075806,
-    "cluster": 1
+    "cluster": 4
   },
   "f21d3176fe4cbe7b5dcab157b191e3cca543e9ff5cce82c08645c8343f19395e": {
     "url": "https://www.sba.gov/business-guide/manage-your-business/strengthen-your-cybersecurity",
@@ -1148,7 +1148,7 @@
     "relevant": true,
     "theme": "cybersecurity",
     "theme_score": 0.945879340171814,
-    "cluster": 4
+    "cluster": 0
   },
   "7aaf83a5134e44328901f948e47612d9f531a30ad7d73168f526b2928239e1ed": {
     "url": "https://www.transportation.gov/priorities/cybersecurity",
@@ -1169,7 +1169,7 @@
     "relevant": true,
     "theme": "cybersecurity",
     "theme_score": 0.6465588212013245,
-    "cluster": 4
+    "cluster": 0
   },
   "0ef363dbf937c6154dde5c71ea8901b287d24308ad5feabca8fff4924be9a756": {
     "url": "https://www.congress.gov/bill/114th-congress/senate-bill/754",
@@ -1191,7 +1191,7 @@
     "relevant": false,
     "theme": "cybersecurity",
     "theme_score": 0.8902223110198975,
-    "cluster": 4
+    "cluster": 0
   },
   "3d8f3eaff4652b78fd897d1a0a6c166d08aa12052864873a7f397da42f696412": {
     "url": "https://www.staysafeonline.org/cybersecurity-awareness-month",
@@ -1202,7 +1202,7 @@
     "relevant": true,
     "theme": "cybersecurity",
     "theme_score": 0.8319851160049438,
-    "cluster": 4
+    "cluster": 0
   },
   "61300c6c314f818eca4f3711dd6b88d4079f7e922ae6d11550a17c5656d3f295": {
     "url": "https://www.instagram.com/ia808/?hl=en",
@@ -1213,7 +1213,7 @@
     "relevant": false,
     "theme": "intelligence artificielle",
     "theme_score": 0.3692037761211395,
-    "cluster": 3
+    "cluster": 1
   },
   "9ad4d98d667af6a74c341bb00fa8f5f8db33b809e8fb491dcf3e77ed124c3061": {
     "url": "https://mauichocolate.com/",
@@ -1225,5 +1225,60 @@
     "theme": "ecologie",
     "theme_score": 0.3055833578109741,
     "cluster": 1
+  },
+  "84e3ea11571b8d77780a24acbc07b6c5fc08c487526c6dbf4e58f1757a3cd8a6": {
+    "url": "https://cybersecurity.springeropen.com/",
+    "title": "Home | Cybersecurity",
+    "description": "Focusing on cyberspace security issues, this open access journal Cybersecurity publishes high quality research and expert reviews to report the latest ...",
+    "bert_label": "POSITIVE",
+    "bert_score": 0.9991768002510071,
+    "relevant": true,
+    "theme": "cybersecurity",
+    "theme_score": 0.8683192133903503,
+    "cluster": 0
+  },
+  "0c630361fa6b56d5731df6b654624dabe1a04f0bcfdaa76bb5dbfe2dfa6cdc15": {
+    "url": "https://www.netacad.com/cybersecurity",
+    "title": "What is Cybersecurity? | Free Courses and Resources",
+    "description": "Cybersecurity is a practice protecting computers, networks, programs, and data from digital attacks, damage, or unauthorized access.",
+    "bert_label": "NEGATIVE",
+    "bert_score": 0.9731141328811646,
+    "relevant": false,
+    "theme": "cybersecurity",
+    "theme_score": 0.79055255651474,
+    "cluster": 0
+  },
+  "6e4f868ca54a0a61cbb50fd44463db37f0c460bd5e2662baf7539d9586112a0d": {
+    "url": "https://www.checkpoint.com/cyber-hub/cyber-security/what-is-cybersecurity/",
+    "title": "What is Cyber Security? The Different Types of Cybersecurity - Check Point Software",
+    "description": "Understand what cyber security is, the different types of cybersecurity solutions, and the importance of a consolidated cybersecurity solution",
+    "bert_label": "POSITIVE",
+    "bert_score": 0.982430636882782,
+    "relevant": true,
+    "theme": "cybersecurity",
+    "theme_score": 0.4751647114753723,
+    "cluster": 0
+  },
+  "b3b6b3aed185c59c2afa0788f1e25cdcaf65342fd980d7f27c756f2cbca12b59": {
+    "url": "https://sunypoly.edu/academics/majors-and-programs/ms-network-computer-security",
+    "title": "Cybersecurity (MS) | SUNY Polytechnic Institute",
+    "description": "The Master of Science program in Cybersecurity offers students a cutting-edge curriculum in the field ofÂ cyber security. The program has been developed in conjunction with local experts in both industry and government, andÂ provides students with a rigorous foundation of coursework that prepares them for management and technical positions in theÂ fields of cyber security research and IT security management.",
+    "bert_label": "POSITIVE",
+    "bert_score": 0.9991959929466248,
+    "relevant": true,
+    "theme": "cybersecurity",
+    "theme_score": 0.8138754367828369,
+    "cluster": 0
+  },
+  "80636a53d3a5c5e56cbcf21d7926379270f063f6ab3c3c4c333e2cb061103c1e": {
+    "url": "https://cybertechaccord.org/",
+    "title": "Home | Cybersecurity Tech Accord",
+    "description": "",
+    "bert_label": "POSITIVE",
+    "bert_score": 0.9608426690101624,
+    "relevant": true,
+    "theme": "cybersecurity",
+    "theme_score": 0.9219604134559631,
+    "cluster": 0
   }
 }

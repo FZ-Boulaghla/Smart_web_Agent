@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Search, Sparkles, Mail, X, ExternalLink, Calendar, User } from 'lucide-react';
+import { Search, Mail, X, ExternalLink, Calendar, User } from 'lucide-react';
 
 interface SearchResult {
   title: string;
@@ -85,9 +85,6 @@ function App() {
           {/* Header */}
           <div className="text-center mb-12">
             <div className="flex items-center justify-center mb-6">
-              <div className="p-3 bg-gradient-to-r from-blue-500 to-purple-600 rounded-2xl">
-                <Sparkles className="w-8 h-8 text-white" />
-              </div>
             </div>
             <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-white via-gray-200 to-gray-400 bg-clip-text text-transparent mb-4">
               Agent de Veille Intelligent
@@ -162,7 +159,7 @@ function App() {
           {results && (
             <div className="bg-gray-900/50 backdrop-blur-xl border border-gray-800 rounded-2xl p-8 shadow-2xl">
               <h2 className="text-2xl font-bold mb-6 flex items-center gap-2">
-                <Sparkles className="w-6 h-6 text-blue-400" />
+         
                 Résultats de recherche
               </h2>
               
