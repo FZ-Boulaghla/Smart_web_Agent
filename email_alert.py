@@ -42,4 +42,4 @@ def send_alert(email, topic="IA", articles_file="scored_index.json"):
         smtp.login("f4632749@gmail.com", "lhmyklgypewlefmv")  # Utilise un mot de passe d'application sécurisé
         smtp.send_message(msg)
 
-    print(f"📬 Email envoyé à {email} avec {len(sorted_results)} articles.")
+    print(f"Email envoyé à {email} avec {len(sorted_results)} articles.")

@@ -51,14 +51,13 @@ def run_pipeline(data: RequestData):
                     "url": url,
                     "date": item.get("date", ""),
                     "source": item.get("source", ""),
-                    "score": item.get("theme_score", 0)  # Optionnel pour trier ensuite
+                    "score": item.get("theme_score", 0) 
                 })
 
-        # Trier par score (facultatif)
+        # Trier par score 
         sorted_results = sorted(results_list, key=lambda x: x["score"], reverse=True)
-        top_results = sorted_results[:13]  # ou [:10]
+        top_results = sorted_results[:13]  
 
-        # Supprimer le champ 'score' s’il n’est pas nécessaire côté frontend
         for r in top_results:
             r.pop("score", None)
 
